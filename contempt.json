@@ -1,0 +1,9 @@
+{
+    "$schema": "https://contempt.lemric.com/schemas/package-1.0.json",
+    "schemaVersion": "1.0",
+    "extension": "Contempt\\Workflow\\WorkflowExtension",
+    "frameworkApi": "^1.0",
+    "capabilities": [
+        "workflow.state-machine"
+    ]
+}
